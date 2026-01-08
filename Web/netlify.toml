@@ -9,5 +9,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/Space-shooter.html"
+  to = "/space-shooter.html"
   status = 200
